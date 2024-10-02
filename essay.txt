@@ -2,3 +2,4 @@ This is a txt file!
 This is a new line!
 Test commit.
 Test.
+Test2.
