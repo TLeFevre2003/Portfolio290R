@@ -1,7 +1,0 @@
-This is a txt file!
-This is a new line!
-Test commit.
-Test.
-Test2.
-Test3.
-TEST 4.
