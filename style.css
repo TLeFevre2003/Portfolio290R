@@ -1,3 +1,15 @@
+body {
+    margin: 0;
+    padding: 20px;
+    background-color: lightgray;
+}
+
+/* ---------- Header ---------- */
+
+h1 {
+    font-size: 40px;
+}
+
 nav {
     text-align: center;
     margin: 30px 0; 
@@ -10,7 +22,7 @@ a:link, a:visited {
 nav a {
     padding: 10px 20px;
     margin: 0 30px;
-    background-color: lightblue;
+    background-color: rgb(150, 175, 255);
     border-radius: 5px;
     text-decoration: none;
 }
@@ -19,10 +31,25 @@ nav a:hover {
     background-color: orange;
 }
 
+/* ---------- Main ---------- */
+
+section {
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+
 section h3 {
     text-align: center;
     font-weight: 1000;
+    font-size: 20px;
 }
+
+section p {
+    font-size: 17px;
+}
+
+/* ---------- Footer ---------- */
 
 .social img {
     width: 100px;
